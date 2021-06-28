@@ -1,0 +1,42 @@
+.wholebody
+{
+    margin:20px;
+    padding: 30px;
+    padding-left: 10%;
+    font-weight: 700;
+ color: rgb(15, 9, 9);
+ background-color:#f2f5fe;
+ border: 2px solid;
+}
+
+.skills
+{
+    padding-top: 50px;
+}
+.contact
+{
+    
+    font-size: 15px;
+    word-spacing: 1px;
+    line-height: 10px;
+    padding-top: 30px;
+}
+#abimg
+{border: 1px solid;
+    border-radius:500px;
+    width: 400px;
+}
+.education
+{padding-left: 80px;
+    padding-top: 30px;
+}
+
+.infobody
+{
+    font-weight: 600;
+padding-left: 80px;
+background-color: #eafbfebf;
+border: 2px solid;
+margin:20px;
+padding-bottom: 40px;
+}
